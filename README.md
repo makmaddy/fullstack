@@ -1,2 +1,0 @@
-# fulstack
-Created with CodeSandbox
